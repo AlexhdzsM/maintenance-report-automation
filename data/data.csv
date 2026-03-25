@@ -1,0 +1,41 @@
+equipment,maintenance_date,type,technician,duration_hours,status
+X-Ray,2024-03-01,Preventive,Juan,2.5,Completed
+Monitor,2024-03-01,Preventive,Ana,1.5,Completed
+Ventilator,2024-03-02,Preventive,Carlos,3.0,Completed
+Infusion Pump,2024-03-02,Preventive,Luis,1.2,Completed
+X-Ray,2024-03-03,Preventive,Juan,2.8,Completed
+Monitor,2024-03-04,Preventive,Ana,1.4,Completed
+Ventilator,2024-03-04,Preventive,Carlos,3.2,Completed
+X-Ray,2024-03-05,Preventive,Juan,2.6,Completed
+Infusion Pump,2024-03-05,Preventive,Luis,1.1,Completed
+Monitor,2024-03-06,Preventive,Ana,1.6,Completed
+Ventilator,2024-03-06,Preventive,Carlos,3.1,Completed
+X-Ray,2024-03-07,Preventive,Juan,2.9,Completed
+Monitor,2024-03-08,Preventive,Ana,1.7,Completed
+Ventilator,2024-03-08,Preventive,Carlos,3.3,Completed
+Infusion Pump,2024-03-09,Preventive,Luis,1.3,Completed
+X-Ray,2024-03-10,Preventive,Juan,2.7,Completed
+Monitor,2024-03-10,Preventive,Ana,1.5,Completed
+Ventilator,2024-03-11,Preventive,Carlos,3.4,Completed
+X-Ray,2024-03-12,Preventive,Juan,2.6,Completed
+Infusion Pump,2024-03-12,Preventive,Luis,1.2,Completed
+Monitor,2024-03-13,Preventive,Ana,1.6,Completed
+Ventilator,2024-03-14,Preventive,Carlos,3.5,Completed
+X-Ray,2024-03-15,Preventive,Juan,3.0,Completed
+Monitor,2024-03-15,Preventive,Ana,1.4,Completed
+Ventilator,2024-03-16,Preventive,Carlos,3.6,Completed
+Infusion Pump,2024-03-16,Preventive,Luis,1.3,Completed
+X-Ray,2024-03-17,Preventive,Juan,2.8,Completed
+Monitor,2024-03-18,Preventive,Ana,1.5,Completed
+Ventilator,2024-03-18,Preventive,Carlos,3.2,Completed
+X-Ray,2024-03-19,Preventive,Juan,2.9,Completed
+Infusion Pump,2024-03-20,Preventive,Luis,1.1,Completed
+Monitor,2024-03-20,Preventive,Ana,1.6,Completed
+Ventilator,2024-03-21,Preventive,Carlos,3.3,Completed
+X-Ray,2024-03-22,Preventive,Juan,3.1,Completed
+Monitor,2024-03-23,Preventive,Ana,1.7,Delayed
+Ventilator,2024-03-23,Preventive,Carlos,3.4,Completed
+Infusion Pump,2024-03-24,Preventive,Luis,1.2,Completed
+X-Ray,2024-03-25,Preventive,Juan,3.0,Completed
+Monitor,2024-03-26,Preventive,Ana,1.5,Completed
+Ventilator,2024-03-27,Preventive,Carlos,3.5,Delayed
