@@ -5,6 +5,7 @@ from openpyxl import load_workbook
 from openpyxl.drawing.image import Image
 from openpyxl.utils import get_column_letter
 from openpyxl.styles import Alignment, Font
+import datetime
 
 
 def get_paths():
@@ -115,6 +116,15 @@ def main():
 
     format_excel(output_path, chart_path)
 
+    print(f"Reporte generado correctamente - {datetime.datetime.now()}")
+
+    #Archivo de logs
+    log_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "output", "log.txt")
+
+    with open(log_path, "a") as f:
+        f.write(f"Reporte generado correctamente - {datetime.datetime.now()}\n")
+
 
 if __name__ == "__main__":
     main()
+
